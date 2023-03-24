@@ -1,0 +1,12 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    border-radius: 10px;
+    cursor: pointer;
+
+  }
+  
